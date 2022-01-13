@@ -1,0 +1,74 @@
+{
+    "songs": [
+        {
+            "title": "Es sind doch nur Tränen",
+            "path": "./data/song2.wav",
+            "artist": [
+                "Philipp Burger"
+            ],
+            "id": 0
+        },
+        {
+            "title": "Wellenbrecher",
+            "path": "./data/song1.wav",
+            "artist": [
+                "Engst"
+            ],
+            "id": 1
+        },
+        {
+            "title": "01 - Viel Luft um Nichts",
+            "path": "./data/grenzenlos.mp3",
+            "artist": [
+                "Grenzen|Los"
+            ],
+            "album": "Keine Einigkeit um Recht&Freiheit (Ltd. + signed) Extended Edition",
+            "id": 7
+        },
+        {
+            "title": "Hypa Hypa",
+            "path": "./data/HyperHyper.mp3",
+            "artist": [
+                "Eskimo Callboy"
+            ],
+            "album": "MMXX",
+            "id": 3
+        },
+        {
+            "title": "Realize",
+            "path": "./data/Realize.mp3",
+            "artist": [
+                "AC/DC"
+            ],
+            "album": "POWER UP",
+            "id": 4
+        },
+        {
+            "title": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death [Explicit]",
+            "path": "./data/OneDay.mp3",
+            "artist": [
+                "Bring Me The Horizon feat. Amy Lee"
+            ],
+            "album": "POST HUMAN: SURVIVAL HORROR [Explicit]",
+            "id": 5
+        },
+        {
+            "title": "Freiheit",
+            "path": "./data/Freiheit.mp3",
+            "artist": [
+                "Serum 114"
+            ],
+            "album": "Im Zeichen der Zeit [Explicit]",
+            "id": 6
+        },
+        {
+            "title": "Code Red",
+            "path": "./data/CodeRed.mp3",
+            "artist": [
+                "AC/DC"
+            ],
+            "album": "POWER UP",
+            "id": 7
+        }
+    ]
+}
